@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>English on TeddyDD&#39;s blog</title>
-    <link>https://teddydd.me/tags/english/index.xml</link>
+    <link>/teddydd.me/tags/english/index.xml</link>
     <description>Recent content in English on TeddyDD&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; &lt;a href=&#34;https://github.com/teddydd&#34;&gt;Daniel Lewan&lt;/a&gt; 2017</copyright>
-    <atom:link href="https://teddydd.me/tags/english/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/teddydd.me/tags/english/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>New Blog</title>
-      <link>https://teddydd.me/post/new-blog/</link>
+      <link>/teddydd.me/post/new-blog/</link>
       <pubDate>Wed, 22 Feb 2017 12:54:18 +0100</pubDate>
       
-      <guid>https://teddydd.me/post/new-blog/</guid>
+      <guid>/teddydd.me/post/new-blog/</guid>
       <description>&lt;p&gt;Hello! I&amp;rsquo;m Daniel and this is my new blog.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
