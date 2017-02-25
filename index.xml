@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TeddyDD&#39;s blog</title>
+    <link>https://teddydd.me/index.xml</link>
+    <description>Recent content on TeddyDD&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; &lt;a href=&#34;https://github.com/teddydd&#34;&gt;Daniel Lewan&lt;/a&gt; 2017</copyright>
+    <lastBuildDate>Wed, 22 Feb 2017 12:54:18 +0100</lastBuildDate>
+    <atom:link href="https://teddydd.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>New Blog</title>
+      <link>https://teddydd.me/post/new-blog/</link>
+      <pubDate>Wed, 22 Feb 2017 12:54:18 +0100</pubDate>
+      
+      <guid>https://teddydd.me/post/new-blog/</guid>
+      <description>&lt;p&gt;Hello! I&amp;rsquo;m Daniel and this is my new blog.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Ok, maybe not so new. I had a blog on &lt;a href=&#34;http://teddydd-dev.tumblr.com/&#34;&gt;Tumblr&lt;/a&gt; about my gamedev adventures but it was not updated frequently.
+I decided to move it to github pages and start fresh using more lightweight Hugo static generator.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m going to write posts in English and in Polish. First tag will always be languae. I&amp;rsquo;m going to copy
+posts from my Tumblr blog here, but that&amp;rsquo;s not a priority.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m going to write about programming, my gamedev stuff, my projects, nice tools I use but also about art and other
+things.&lt;/p&gt;
+
+&lt;h1 id=&#34;why-hugo&#34;&gt;Why Hugo&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; is static website generator written by spf13 in Go. It&amp;rsquo;s singe binary
+exectutable, pretty fast and easy to use. There is lot of free &lt;a href=&#34;http://themes.gohugo.io/&#34;&gt;themes&lt;/a&gt;
+avaliable. As person without expirience in webdev I was able to pick and modifie the theme without
+a hassle.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Daniel Lewan - TeddyDD</title>
+      <link>https://teddydd.me/about/</link>
+      <pubDate>Mon, 20 Feb 2017 18:53:31 +0100</pubDate>
+      
+      <guid>https://teddydd.me/about/</guid>
+      <description>&lt;p&gt;Hi. The name’s Daniel and I study at Nicolas Copernicus University in Toruń, Poland.
+I’m interested in programming, gamedev, art and astronomy.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
